@@ -1,4 +1,4 @@
-# Features Database
+# Opencv Features Database
 
 This class provides a way to store Mat objects into a database for Android applications.
 
